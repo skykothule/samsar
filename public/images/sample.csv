@@ -1,0 +1,4 @@
+Order ID,Order Date,Order Value,Requested Service,Ship To - Name,Ship To - Company,Ship To - Address 1,Ship To - Address 2,Ship To - Address 3,Ship To - State/Province,Ship To - City,Ship To - Postal Code,Ship To - Country,Ship To - Phone,Ship To - Email,Total Weight in Oz,Dimensions - Length,Dimensions - Width,Dimensions - Height,Notes - From Customer,Notes - Internal,Gift Wrap?,Gift Message
+BA6-Box 4,06-05-2020,4.99,Standard Shipping,Robin Eckholt,Robin Eckholt,12601 SE River Rd Apt 117,,,OR,Milwaukie,97222-9708,United States,,,1.15,,,,,,,
+BA7-Box 4,06-05-2020,4.99,Standard Shipping,Anita Neuburger,Anita Neuburger,11037 Lynn Lake Circle,,,FL,Tampa,33625-5642,United States,,,4.19,,,,,,,
+BA8-Box 4,06-05-2020,4.99,Standard Shipping,Becky S Love,Becky S Love,"13370 NW Westlawn Ter, Apt 6",,,OR,Portland,97229-5547,United States,,,3.11,,,,,,,
